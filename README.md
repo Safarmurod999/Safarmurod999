@@ -19,9 +19,9 @@
 
 ### About Me :
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a frontend web developer and I am passionate about challenges.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a MERN stack web developer and I am passionate about challenges.
 I study at Tashkent University of Information Technologies.
-- 🌱 I’m currently learning NodeJs Backend.
+- 🌱 I’m currently learning new technologies and UI frameworks.
 - 🔭 I’m frontend freelancer at upwork.com and kwork.ru.
 
 ---
