@@ -22,8 +22,7 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a MERN stack web developer and I am passionate about challenges.
 I study at Tashkent University of Information Technologies.
 - 🌱 I’m currently learning new technologies and UI frameworks.
-- 🔭 I’m frontend freelancer at upwork.com and kwork.ru.
-
+- 🔭 I’m frontend freelancer at kwork.ru and also Platon Intern developer at RealSoft Academy.
 ---
 
 ### Languages and Tools :
@@ -46,15 +45,5 @@ I study at Tashkent University of Information Technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="MaterialUI" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" width="40" height="40" />
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" width="40" height="40" />   
 </div>
