@@ -5,7 +5,7 @@
 <br>
     <div id="badges">
         <p> <i> Let's connect! 📫 </i></p>
-        <a href="mailto:supermen0904@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+        <a href="mailto:safarmurodurinov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
         <a href="https://www.linkedin.com/in/safarmurod999/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://www.facebook.com/profile.php?id=100080957135659" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
         <a href="https://www.instagram.com/safarmurod0904/" target="_blank">
